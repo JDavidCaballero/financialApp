@@ -2,6 +2,10 @@
 
 A simple web application to track and manage personal finances. Users can input their monthly income, record expenses, categorize transactions, and generate reports in TXT or CSV format to analyze their spending, this web app is oriented for colombian users.
 
+# Test the page (with some limited features)
+
+https://jdavidcaballero.github.io/financialApp/
+
 ## Features
 
 - **Transaction Management:** Add, view, and categorize expenses with a description and amount.
